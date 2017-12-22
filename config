@@ -1,0 +1,5 @@
+# Default github user(csfeinixwang@mail.com)
+Host github.com
+ HostName github.com
+ User git
+ IdentityFile C:/Users/Administrator/.ssh/id_rsa
